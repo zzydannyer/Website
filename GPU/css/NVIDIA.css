@@ -1,0 +1,47 @@
+@charset "utf-8";
+body div {
+    width: 100px;
+    margin-top: 70px;
+    margin-left: 5px;
+    margin-right: 50px;
+    padding-left: 5px;
+    float: right;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: #FFFFFF;
+}
+tbody tr td {
+    font-family: "微软雅黑";
+    color: #FFFFFF;
+
+
+}
+# {
+	font-size: 34px;
+}
+#小字 {
+    font-size: 13px;
+    font-family: "微软雅黑";
+    color: #FFFFFF;
+}
+#居中 {
+    text-align: center;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    color: #FFFFFF;
+
+}
+#小字 #小标题 {
+	font-weight: bold;
+	font-size: 17px;
+}
+body div a {
+    color: #FFFFFF;
+}
+tr td a {
+    color: #ffffff;
+}
+body p a {
+    color: #ffffff;
+}
